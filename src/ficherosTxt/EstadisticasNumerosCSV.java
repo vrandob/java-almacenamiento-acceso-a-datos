@@ -1,4 +1,4 @@
-package exploradorFicherosTxt;
+package ficherosTxt;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

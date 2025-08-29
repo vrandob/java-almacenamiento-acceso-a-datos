@@ -1,4 +1,4 @@
-package exploradorFicherosTxt;
+package ficherosTxt;
 
 import java.io.File;
 import java.util.Arrays;
