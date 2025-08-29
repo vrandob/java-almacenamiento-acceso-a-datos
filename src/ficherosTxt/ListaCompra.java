@@ -136,6 +136,6 @@ public class ListaCompra {
             System.out.println("Error al escribir: " + ex.getMessage());
         }
         
-        System.out.println("Se eliminó " + aEliminar + "si es que existía");
+        System.out.println("Se eliminó " + aEliminar + "si es que existía.");
     }
 }
